@@ -1,0 +1,1 @@
+C:\Users\rahul\OneDrive\Desktop\100\ days\ cohort\Rust\Lesson2_guessing_name\target\debug\Lesson2_guessing_na.exe: C:\Users\rahul\OneDrive\Desktop\100\ days\ cohort\Rust\Lesson2_guessing_name\src\main.rs
